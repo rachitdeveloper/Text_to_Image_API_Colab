@@ -1,4 +1,4 @@
-# Text-to-Image-Colab
+# Text-to-Image-API-Colab
 
 🐣 Please follow me for new updates https://twitter.com/Rachitdeveloper <br>
 
