@@ -6,7 +6,7 @@
 
 🥳 Please join my patreon community https://www.patreon.com/rachitdeveloper <br>
 
-🍵 you can buy me a coffee https://www.buymeacoffee.com/rachitdeveloper  <br>
+🍵 please buy me a coffee https://www.buymeacoffee.com/rachitdeveloper  <br>
 
 ### 🦒 Colab
 
